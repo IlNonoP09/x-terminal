@@ -7,15 +7,18 @@ This is a new terminal write in python for windows users, it contains a lot of n
 # commands
 N.B.: All command support the help command, example, if i write x.h i see a small guie about the command
 
-help = see a guide
+Help = see a guide
 
-"x.[]"               this is a command ffor the oparation on the terminal (for example clear the screen)
+"x.[]"               This is a command ffor the oparation on the terminal (for example clear the screen)
 
-"system []"          this is for execute operazione on system (shutdown or reboot)
+"system []"          This is for execute operazione on system (shutdown or reboot)
 
-"get []"               for see informazion about the computer, for example the pubblic IP adress or the local IP
+"get []"               For see informazion about the computer, for example the pubblic IP adress or the local IP
 
-"antivirus-scanner"    an integrated antiirus scaner function power by Microsoft defender
+"antivirus-scanner"    An integrated antiirus scaner function power by Microsoft defender
 
-"call"                 this is command for call online IA assistant, for example Bing chat (microsoft) or ChatGPT(Google)
+"call"                 This is command for call online IA assistant, for example Bing chat (microsoft) or ChatGPT(Google)
 
+"server"  This command is for remote connection to file server (for now only FTP)
+
+"cd" This is for change the directory
